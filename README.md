@@ -6,10 +6,10 @@
 <br>
 
 <h2>🐌</h2>
-rustって面白いよね。<br>
-こいつってスレッド系が得意なのかと思ってるけど<br>
-実際のとこどうなん？Cに比べりゃ制作側の安全性は<br>
-保障されてるからｽｩー・・・<br>
+rustは素晴らしい。<br>
+所有権に悩まされてるC++erに継ぐ<br>
+今すぐrustに乗り換えなさい。<br>
+大丈夫、バグはなくなるから()<br>
 
 <!---
 rain3jkd7h/rain3jkd7h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
