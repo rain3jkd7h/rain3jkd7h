@@ -10,6 +10,10 @@ rustは素晴らしい。<br>
 所有権に悩まされてるC++erに継ぐ<br>
 今すぐrustに乗り換えなさい。<br>
 大丈夫、バグはなくなるから()<br>
+<br>
+clangerはzigです。<br>
+zigを信じなさい<br>
+君の得たかった自由がそこにある<br>
 
 <!---
 rain3jkd7h/rain3jkd7h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
