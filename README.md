@@ -13,7 +13,7 @@ rustは素晴らしい。<br>
 <br>
 clangerはzigです。<br>
 zigを信じなさい<br>
-君の得たかった自由がそこにある<br>
+君の欲した自由がそこにある<br>
 
 <!---
 rain3jkd7h/rain3jkd7h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
